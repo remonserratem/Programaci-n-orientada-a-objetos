@@ -1,0 +1,14 @@
+# Tarea: Programación Tradicional y POO
+
+Este repositorio contiene dos programas en Python que permiten registrar
+temperaturas diarias y calcular el promedio semanal.
+
+## Contenido
+- Programación Tradicional
+- Programación Orientada a Objetos (POO)
+
+## Comparación
+En la programación tradicional se usan funciones y variables para manejar
+las temperaturas, es sencilla, pero menos ordenada cuando el programa crece.
+En la programación orientada a objetos se usan clases, lo que permite una
+mejor organización del código.
